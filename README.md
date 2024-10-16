@@ -11,4 +11,16 @@
 - **Richiesta di Dati**: Gli utenti o le applicazioni richiedono dati attivamente. Ad esempio, quando un utente accede a un sito web, il browser invia una richiesta (pull) al server per ottenere il contenuto.
 - **API RESTful**: In molte architetture di API, i client inviano richieste HTTP per "estrarre" dati dal server.
 - **Aggiornamenti Manuali**: In alcuni sistemi, gli utenti devono controllare manualmente se ci sono aggiornamenti disponibili e quindi scaricarli.
+
+
+## Cos'è un commit?
+
+Un commit rappresenta un'istantanea dei cambiamenti fatti nel repository in un determinato momento. Ogni commit ha un messaggio che descrive i cambiamenti e un identificatore univoco.
+
+## Cos'è un clone?
+
+Il clone è la copia di un repository Git esistente su un'altra macchina. Questo comando crea una replica locale di tutto il repository, incluse la cronologia dei commit e i rami.
+
+
+
 ```
